@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <title> Site </title>
+</head>
+
+<body>
+    <h1>
+        <pre>
+                                                             profissões 
+    </pre>
+    </h1>
+    <body style="background-color: white"></body>
+    <label style="padding:30px"> Moisés Lacerda Oliveira</label>
+    <label> 3 Informatica B</label> </label>
+    <h1 style="margin: 50 px"> capa </h1>
+    <h1 style="color: red"> Filósofo  </h1>
+    <h2 style="color: red"> Filosofia é o estudo de questões gerais e fundamentais sobre a existência, conhecimento, valores, razão, mente, e linguagem;
+         frequentemente colocadas como problemas a se resolver. O termo provavelmente foi cunhado por Pitágoras.  </h2>
+         <a href = "https://pt.wikipedia.org/wiki/Filosofia">
+         <img src="123.jpg" width="1000px" height="900px"/>
+        </a>
+</html>
